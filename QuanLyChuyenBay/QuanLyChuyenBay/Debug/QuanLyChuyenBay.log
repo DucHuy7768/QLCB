@@ -1,0 +1,7 @@
+﻿  QuanLyChuyenBay.cpp
+D:\Visual Stu\QuanLyChuyenBay\QuanLyChuyenBay\QuanLyChuyenBay.cpp(27,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Stu\QuanLyChuyenBay\QuanLyChuyenBay\QuanLyChuyenBay.cpp(30,35): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Stu\QuanLyChuyenBay\QuanLyChuyenBay\QuanLyChuyenBay.cpp(31,55): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Stu\QuanLyChuyenBay\QuanLyChuyenBay\QuanLyChuyenBay.cpp(37,51): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Visual Stu\QuanLyChuyenBay\QuanLyChuyenBay\QuanLyChuyenBay.cpp(47,38): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  QuanLyChuyenBay.vcxproj -> D:\Visual Stu\QuanLyChuyenBay\Debug\QuanLyChuyenBay.exe

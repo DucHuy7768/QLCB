@@ -1,0 +1,24 @@
+Ma chuyen bay: M3
+So hieu: AB177
+Gia ban: 5000
+Noi den: VN
+Ngay khoi hanh: 1/8/2021
+So luong hien thi: 19
+So luong con lai: 20
+
+Ma chuyen bay: H4
+So hieu: 12QA
+Gia ban: 6000
+Noi den: MA
+Ngay khoi hanh: 1/8/2021
+So luong hien thi: 10
+So luong con lai: 10
+
+Ma chuyen bay: Z32
+So hieu: AM12
+Gia ban: 5000
+Noi den: VN
+Ngay khoi hanh: 1/1/2021
+So luong hien thi: 50
+So luong con lai: 50
+
